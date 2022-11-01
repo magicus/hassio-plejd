@@ -1,5 +1,5 @@
 name: Plejd
-version: 0.9.1
+version: 0.9.1+magicus-03
 slug: plejd
 description: Adds support for the Swedish home automation devices from Plejd.
 url: https://github.com/magicus/hassio-plejd/
